@@ -4,9 +4,9 @@ The assignments in BAN400 are organized through Github and Github Classroom. By 
 
 **Date:** 30/11/2023
 
-**Name:**Tony Benoy
+**Name:** Tony Benoy
 
-**Student number:**231578
+**Student number:** 231578
 
 ## :information_source: Problem 1
 Update the personal information above.
